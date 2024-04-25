@@ -39,6 +39,7 @@ nav a:hover {
     background-clip: text;
     color: transparent;
     transition: color 0.5s ease;
+    text-decoration: underline;
 }
 
 /*corpo*/
